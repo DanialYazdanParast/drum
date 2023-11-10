@@ -98,7 +98,7 @@ Widget getBody() {
                 onPressed: () {
                   playSound('audio/k2.wav');
                 },
-                child: Text('aaa'),
+                child: Text(''),
               ),
             ),
           ],
